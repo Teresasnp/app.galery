@@ -1,0 +1,78 @@
+name: galeri
+description: "A new Flutter project."
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  photo_view: ^0.14.0 # versi terbaru
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/image1.jpg
+    - assets/images/image2.jpg
+    - assets/images/image3.jpg
+    - assets/images/image4.jpg
+    - assets/images/image5.jpg
+    - assets/images/image6.jpg
+    - assets/images/image7.jpg
+    - assets/images/image8.jpg
+    - assets/images/image9.jpg
+    - assets/images/image10.jpg
+    - assets/images/image11.jpg
+    - assets/images/image12.jpg
+    - assets/images/image13.jpg
+    - assets/images/image14.jpg
+    - assets/images/image15.jpg
+    - assets/images/image16.jpg
+
+    - assets/images/screenshots_1.jpg
+    - assets/images/screenshots_2.jpg
+    - assets/images/screenshots_3.jpg
+    - assets/images/screenshots_4.jpg
+    - assets/images/screenshots_5.jpg
+    - assets/images/screenshots_6.jpg
+    - assets/images/screenshots_7.jpg
+    - assets/images/screenshots_8.jpg
+    - assets/images/screenshots_9.jpg
+    - assets/images/screenshots_10.jpg
+    - assets/images/screenshots_11.jpg
+    - assets/images/screenshots_12.jpg
+    - assets/images/screenshots_13.jpg
+    - assets/images/screenshots_14.jpg
+    - assets/images/screenshots_15.jpg
+    - assets/images/screenshots_16.jpg
+
+    - assets/images/anggota1.jpg
+    - assets/images/anggota2.jpg
+    - assets/images/member3.jpg
+    - assets/images/member4.jpg
+
+    - assets/images/explore1.jpg
+    - assets/images/explore2.jpg
+    - assets/images/explore3.jpg
+    - assets/images/explore4.jpg
+    - assets/images/explore5.jpg
+    - assets/images/explore6.jpg
+    - assets/images/explore7.jpg
+    - assets/images/explore8.jpg
+    - assets/images/explore9.jpg
+    - assets/images/explore10.jpg
+    - assets/images/explore11.jpg
+    - assets/images/explore12.jpg
+    - assets/images/explore13.jpg
+    - assets/images/explore14.jpg
+    - assets/images/explore15.jpg
